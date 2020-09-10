@@ -1,4 +1,4 @@
-## Moved to [gitgud.io/fatchan](gitgud.io/fatchan)
+## Moved to [gitgud.io/fatchan](https://gitgud.io/fatchan)
 
 <!--
 **fatchan/fatchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
